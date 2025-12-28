@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 30306b2cdd5788f4b8e0de414510cf48
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 307526
+  packageName: Pickle Ball Collection
+  packageVersion: 2022.3.19f1
+  assetPath: Assets/Pickle Ball Collection/File Prefab/pickleball court.prefab
+  uploadId: 722808

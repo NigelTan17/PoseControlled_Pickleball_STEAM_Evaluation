@@ -1,0 +1,20 @@
+# Unity generated folders
+**/[Ll]ibrary/
+**/[Tt]emp/
+**/[Oo]bj/
+**/[Bb]uild/
+**/[Bb]uilds/
+**/[Ll]ogs/
+**/[Uu]ser[Ss]ettings/
+*.aar
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Python junk
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+.env
