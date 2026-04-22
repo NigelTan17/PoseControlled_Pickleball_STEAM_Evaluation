@@ -1,6 +1,6 @@
 # Pose-Controlled Pickleball (Unity + Python)
 
-A webcam-based pose-controlled pickleball prototype built with Unity and Python (MediaPipe).  
+A webcam-based pose-controlled digital pickleball prototype built with Unity and Python (MediaPipe).  
 This repository also includes the analysis workflow used to evaluate user perception of STEAM-related value and engagement.
 
 ## Repository structure
